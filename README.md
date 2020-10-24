@@ -1,1 +1,1 @@
-# Schelling-s-agent-based-model
+# Schelling-agent-based-model
